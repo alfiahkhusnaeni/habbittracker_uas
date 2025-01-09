@@ -1,8 +1,0 @@
-@startuml
-!include actor_diagram.puml
-!include usecase_diagram.puml
-!include class_diagram.puml
-!include functions.puml
-!include relationships.puml
-!include sequence_diagram.puml
-@enduml
